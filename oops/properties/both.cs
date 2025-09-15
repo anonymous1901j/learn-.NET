@@ -166,4 +166,11 @@ class employee
 		System.Console.WriteLine("{0} {1} {2}",eid,ename,salary);
 	}
 }
-
+/* the output of this program iss 
+1
+shiva
+123456
+2
+gani
+123456
+product
